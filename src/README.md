@@ -1,1 +1,0 @@
-this program is a Currency converter
